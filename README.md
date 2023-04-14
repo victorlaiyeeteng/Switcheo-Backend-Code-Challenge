@@ -1,5 +1,8 @@
 # Switcheo-Backend-Code-Challenge
 
+Applicant's Name: Victor Lai
+Role Applied: Backend Engineer Intern
+
 Overall Comments:
 
 I am fairly new and unfamiliar with Solidity and Smart Contracts so Problems 5 and 6 are rather challenging to me. 
