@@ -6,7 +6,7 @@ const SWTHAbi = [
     "function balanceOf(address) view returns (uint)",
 ];
 
-const provider = new ethers.JsonRpcProvider("https://bsc-dataseed.binance.org/");
+const provider = new ethers.JsonRpcProvider("https://bsc-dataseed1.binance.org/");
 
 const SWTHContract = new ethers.Contract(SWTHAddress, SWTHAbi, provider);
 
