@@ -1,9 +1,9 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/Users/victorlai/Documents/Switcheo BackEnd Intern/Utility/contracts/Balance.sol": {
-      "lastModificationDate": 1681356082961,
-      "contentHash": "334128ff3c507ff8752dbc39251b5f44",
+    "/Users/victorlai/Documents/Switcheo BackEnd Intern/Problem 5/Utility/contracts/Balance.sol": {
+      "lastModificationDate": 1681454086720,
+      "contentHash": "ad2742b244747ade7dc65211437c3a48",
       "sourceName": "contracts/Balance.sol",
       "solcConfig": {
         "version": "0.8.18",

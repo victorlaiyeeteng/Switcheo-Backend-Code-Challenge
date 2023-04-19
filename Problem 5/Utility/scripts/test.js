@@ -1,4 +1,3 @@
-
 // Search for SWTH Token from holder from Problem 4
 const ADDRESS = "0xb5d4f343412dc8efb6ff599d790074d0f1e8d430"
 const TOKENS = [
