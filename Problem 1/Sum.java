@@ -20,7 +20,7 @@ public class Sum {
     }
 
     // Arithmetic Progression Method
-    public static int sum_to_n_c(int n) {
+    public static int sum_to_n_c(int n) { 
         if (n % 2 == 0) {
             return (n / 2) * (1 + n);
         } else {
